@@ -1,0 +1,4 @@
+Concatenate, aka combine.  Can be used to print files and to edit or move data into files.
+cat file.ext - prints file.
+cat > file.ext - allows input of data into file.
+cat other.ext > file.ext - appends the first file into the second.
