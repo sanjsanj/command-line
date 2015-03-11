@@ -1,0 +1,3 @@
+head -x filename.ext
+Print the first x number of lines from the top(head) of the file.
+x defaults to 10 if not flagged.
