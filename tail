@@ -1,0 +1,6 @@
+tail -x filename.ext
+Print x numer of lines from the bottom(tail) of the file.
+x defaults to 10 if not flagged.
+
+tail -f filename.ext
+Interactive real-time tailing of a file.
