@@ -1,0 +1,2 @@
+Brings up the manual for the flagged command.
+e.g. `man mkdir`
