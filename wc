@@ -1,1 +1,3 @@
-Word count, outputs lines words characters, can use flags -LWC
+Word count, outputs lines words characters, can use flags -LWC (Lines, Words, Characters)
+e.g. `wc filename.ext`
+Will output LWC for the file by default, unless flags are used.
