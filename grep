@@ -1,1 +1,3 @@
-Find a string in your files
+Find a string in your files.
+e.g. `grep string *.txt`
+Looks for "string" in *.txt
