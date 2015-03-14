@@ -1,0 +1,2 @@
+Superuser do.
+prefix a command with sudo to execute it as a superuser, useful sometimes when you get permission denial.
