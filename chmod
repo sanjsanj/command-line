@@ -1,0 +1,7 @@
+Change permission modifiers.
+
+e.g. `chmod u+w filename.ext`
+Give (+) user write permission on file.
+
+(u)user, (g)group, (o)other
+(r)read, (w)write, (x)execute
