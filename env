@@ -1,0 +1,3 @@
+Used to read env vars.
+
+e.g. secret_key = ENV['secret_key']
