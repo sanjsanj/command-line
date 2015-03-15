@@ -1,0 +1,10 @@
+Echo.  Prints your flagged input onscreen or shovels it into your chosen file.
+
+e.g. echo "hello"
+prints hello.
+
+e.g. echo string > filename.ext
+puts that text into that file.
+
+e.g. echo $ENV_VAR
+prints that environment variable
