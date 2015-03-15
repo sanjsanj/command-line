@@ -1,0 +1,4 @@
+Export or set a value, most(only?) useful for env vars.
+
+e.g. export SEASON=spring
+sets $SEASON env var as spring.
