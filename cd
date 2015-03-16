@@ -1,1 +1,3 @@
-Change directory, can be used with multiple flags.  "~" means from the homedir, "." means from the current dir and ".." means the current dir's parent.  e.g cd ../../test
+Change directory, can be used with multiple flags. 
+"~" means from the homedir, "." means from the current dir and ".." means the current dir's parent. 
+e.g cd ../../test
