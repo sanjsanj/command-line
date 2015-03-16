@@ -1,1 +1,3 @@
-Copy files and folders
+Copy files and folders.
+
+e.g. cp somefile ./otherdir/
